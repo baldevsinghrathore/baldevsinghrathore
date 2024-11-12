@@ -37,7 +37,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :mailbox: How to reach me 9166646758
   
--👀 I’m interested in coading
+👀 I’m interested in coading
 - 💞️ I’m looking to collaborate on java,php,my sql,python,css
 
 ---
