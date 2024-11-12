@@ -14,13 +14,13 @@ You can click the Preview link to take a look at your changes.
 <h1 align="center">👋 Hi, I’m @baldevsinghrathore</h1>
 
 <div id="badges" align="center">
-<a href="https://www.linkedin.com/in/burhanuddin-raja-261b1617b/">
+<a href="https://www.linkedin.com/in/baldev-singh-rathore-472096115/">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
-<a href="https://burhanraja.hashnode.dev/">
+<a href="https://www.linkedin.com/in/baldev-singh-rathore-472096115/">
 <img src="https://img.shields.io/badge/Hashnode-darkblue?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode Badge"/>
 </a>
-<a href="https://twitter.com/Burhan_Raja52">
+<a href="https://www.linkedin.com/in/baldev-singh-rathore-472096115/">
 <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
 
 </a>
