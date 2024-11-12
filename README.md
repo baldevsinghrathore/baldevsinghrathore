@@ -3,7 +3,7 @@ baldevsinghrathore/baldevsinghrathore is a ✨ special ✨ repository because it
 You can click the Preview link to take a look at your changes.
 --->
 <div align="center">
-<img src="https://user-images.githubusercontent.com/76507095/191487843-546f1822-dada-46e4-a441-8183e55495ce.jpg" height="400" width="700" />
+<img src="https://camo.githubusercontent.com/6aebb784bc63eae8a5ed3586f3bec966c14f00c592a6ca630aaac188ec83af3f/68747470733a2f2f632e74656e6f722e636f6d2f327579454e526d6955743041414141432f636f64696e672e676966" height="400" width="700" />
 </div>
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
